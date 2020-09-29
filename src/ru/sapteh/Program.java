@@ -2,6 +2,6 @@ package ru.sapteh;
 
 public class Program {
     public static void main (String[] args){
-        System.out.println("Bizi programist,in the world");
+        System.out.println("Hello Max");
     }
 }
